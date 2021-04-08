@@ -1,34 +1,93 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Furkan ÜZMEZ]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsby-starter-blog-demo.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 07 Apr 2021 21:15:57 GMT</lastBuildDate><item><title><![CDATA[Lane Detection]]></title><description><![CDATA[Lane Detection with Python - Open-CV]]></description><link>https://gatsby-starter-blog-demo.netlify.com/Lane-Detection/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/Lane-Detection/</guid><pubDate>Mon, 23 Aug 2021 17:50:05 GMT</pubDate><content:encoded>&lt;h2&gt;Lane Detection with Python - Open-CV&lt;/h2&gt;</content:encoded></item><item><title><![CDATA[adasengineer.com]]></title><description><![CDATA[Hi Everyone  Advance Driver Assistance Systems  I have already started designing  and coding for this website, I am coming from different…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/Automated-Driving/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/Automated-Driving/</guid><pubDate>Fri, 19 Apr 2019 21:28:03 GMT</pubDate><content:encoded>&lt;p&gt;Hi Everyone &lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Furkan ÜZMEZ]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsby-starter-blog-demo.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 08 Apr 2021 17:02:55 GMT</lastBuildDate><item><title><![CDATA[Lane Detection]]></title><description><![CDATA[Lane Detection with Python - Open-CV]]></description><link>https://gatsby-starter-blog-demo.netlify.com/Lane-Detection/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/Lane-Detection/</guid><pubDate>Mon, 23 Aug 2021 17:50:05 GMT</pubDate><content:encoded>&lt;h2&gt;Lane Detection with Python - Open-CV&lt;/h2&gt;</content:encoded></item><item><title><![CDATA[Signature Comparison with Processing]]></title><description><![CDATA[Signature Comparison- Processing Language]]></description><link>https://gatsby-starter-blog-demo.netlify.com/Signature-Comparison/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/Signature-Comparison/</guid><pubDate>Sun, 19 May 2019 21:28:03 GMT</pubDate><content:encoded>&lt;h2&gt;Signature Comparison- Processing Language&lt;/h2&gt;</content:encoded></item><item><title><![CDATA[E-commerce Web App]]></title><description><![CDATA[Hi Everyone  E-Commerce]]></description><link>https://gatsby-starter-blog-demo.netlify.com/e-commerce/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/e-commerce/</guid><pubDate>Fri, 19 Apr 2019 21:28:03 GMT</pubDate><content:encoded>&lt;p&gt;Hi Everyone &lt;/p&gt;
+&lt;h2&gt;E-Commerce&lt;/h2&gt;</content:encoded></item><item><title><![CDATA[adasengineer.com]]></title><description><![CDATA[Hi Everyone  Advance Driver Assistance Systems  I have already started designing  and coding for this website, I am coming from different…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/Automated-Driving/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/Automated-Driving/</guid><pubDate>Fri, 19 Apr 2019 21:28:03 GMT</pubDate><content:encoded>&lt;p&gt;Hi Everyone &lt;/p&gt;
 &lt;h2&gt;Advance Driver Assistance Systems&lt;/h2&gt;
-&lt;p&gt; I have already started designing  and coding for this website, I am coming from different tech environments and I would like to collect information related to autonomous driving because, in near future, we will see new technologies and inventions, &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Line Detection with Open-CV]]></title><description><![CDATA[Hi Everyone,  E - Commerce Django and React.js Who I Am? Starting a Blog Why I am starting a blog? There are 3 main reasons to start this…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/Line Detection/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/Line Detection/</guid><pubDate>Fri, 19 Apr 2019 21:28:03 GMT</pubDate><content:encoded>&lt;p&gt;Hi Everyone, &lt;/p&gt;
-&lt;h2&gt;E - Commerce Django and React.js&lt;/h2&gt;
-&lt;h2&gt;Who I Am?&lt;/h2&gt;
-&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 36.674816625916876%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/bhj1hEiCWv0&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
-&lt;p&gt;&lt;img src=&quot;./postcover.png&quot; alt=&quot;Starting a Blog&quot;&gt;&lt;/p&gt;
-&lt;h2&gt;Why I am starting a blog?&lt;/h2&gt;
-&lt;p&gt;There are 3 main reasons to start this blog for me. &lt;/p&gt;
-&lt;h3&gt;1- Reminders! I don’t want to forget any work I do, even small things.&lt;/h3&gt;
-&lt;hr&gt;
-&lt;h3&gt;2- Motivation! I believe that this blog will make me motivate for being more productive.&lt;/h3&gt;
-&lt;hr&gt;
-&lt;h3&gt;3- Portfolio! Showing all my works on my personal website.&lt;/h3&gt;
-&lt;hr&gt;
-&lt;p&gt; 💪&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Canvas- Animation]]></title><description><![CDATA[Hi Everyone,]]></description><link>https://gatsby-starter-blog-demo.netlify.com/html5-Canvas/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/html5-Canvas/</guid><pubDate>Fri, 19 Apr 2019 21:28:03 GMT</pubDate><content:encoded>&lt;p&gt;Hi Everyone, &lt;/p&gt;</content:encoded></item><item><title><![CDATA[E-commerce Web App]]></title><description><![CDATA[Hi Everyone  E-Commerce]]></description><link>https://gatsby-starter-blog-demo.netlify.com/e-commerce/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/e-commerce/</guid><pubDate>Fri, 19 Apr 2019 21:28:03 GMT</pubDate><content:encoded>&lt;p&gt;Hi Everyone &lt;/p&gt;
-&lt;h2&gt;E-Commerce&lt;/h2&gt;</content:encoded></item><item><title><![CDATA[Vehicle Competitor - Database Practice]]></title><description><![CDATA[Vehicle Model Comparison Kia Test App My aim is just to show the fundamental process by combining frontend, backend, and database…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/vehicle-competitors/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/vehicle-competitors/</guid><pubDate>Fri, 19 Apr 2019 21:28:03 GMT</pubDate><content:encoded>&lt;h2&gt;Vehicle Model Comparison&lt;/h2&gt;
-&lt;p&gt;Kia Test App&lt;/p&gt;
-&lt;p&gt;My aim is just to show the fundamental process by combining frontend, backend, and database communication.&lt;/p&gt;
-&lt;p&gt;Youtube Link: Working Project on Local Host &lt;a href=&quot;https://www.youtube.com/watch?v=5Pezcnm82YM&amp;#x26;feature=youtu.be&quot;&gt;https://www.youtube.com/watch?v=5Pezcnm82YM&amp;#x26;feature=youtu.be&lt;/a&gt;&lt;/p&gt;
-&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 66.66666666666666%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/5Pezcnm82YM&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
-&lt;h4&gt;Bootstrap: Styling&lt;/h4&gt;
-&lt;h4&gt;Express: Backend&lt;/h4&gt;
-&lt;h4&gt;Node.js:EJS Web Template&lt;/h4&gt;
-&lt;p&gt;Images from car companies websites&lt;/p&gt;
-&lt;h3&gt;Sql Queries&lt;/h3&gt;
-&lt;p&gt;router.get(‘/getcompetitors/:id’, (req, res) =&gt; { var sql = ‘SELECT * from competitors WHERE competitors.vehicle_model=’+”’“+req.params.id+”’”; db2.query(sql, (err, result) =&gt; { if(err) throw err; console.log(result); res.send(result); }); });&lt;/p&gt;
-&lt;p&gt;router.get(‘/createjoin’, (req, res) =&gt; { var sql = “SELECT vehicles.vehicle&lt;em&gt;type, vehicles.vehicle&lt;/em&gt;model,vehicles.sold&lt;em&gt;kia&lt;/em&gt;model,countries.country&lt;em&gt;name FROM countries JOIN vehicles ON countries.country&lt;/em&gt;name = vehicles.country&lt;em&gt;name ORDER BY vehicles.country&lt;/em&gt;name”; db2.query(sql, (err, result) =&gt; { if(err) throw err; console.log(result); res.send(result); }); });&lt;/p&gt;
-&lt;p&gt;!!!!! I have combined the other first 3 brands and their models in the competitor table, normally creating a separate brand with the vehicle model table is a more accurate arrangement.
-💪&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Contruction Info Sharing]]></title><description><![CDATA[Hi Everyone,  E-Commerce Django and React.js]]></description><link>https://gatsby-starter-blog-demo.netlify.com/Web-App-Construction/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/Web-App-Construction/</guid><pubDate>Fri, 19 Apr 2019 21:28:03 GMT</pubDate><content:encoded>&lt;p&gt;Hi Everyone, &lt;/p&gt;
-&lt;h2&gt;E-Commerce Django and React.js&lt;/h2&gt;</content:encoded></item><item><title><![CDATA[Signature Comparison with Processing]]></title><link>https://gatsby-starter-blog-demo.netlify.com/Signature-Comparison/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/Signature-Comparison/</guid><pubDate>Fri, 19 Apr 2019 21:28:03 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Object Detection with Open-CV and Tensor-Flow]]></title><description><![CDATA[Hi Everyone,  Object Detection  Sliding Window]]></description><link>https://gatsby-starter-blog-demo.netlify.com/Object Detection - CNN/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/Object Detection - CNN/</guid><pubDate>Fri, 19 Apr 2019 21:28:03 GMT</pubDate><content:encoded>&lt;p&gt;Hi Everyone, &lt;/p&gt;
+&lt;p&gt; I have already started designing  and coding for this website, I am coming from different tech environments and I would like to collect information related to autonomous driving because , in near future , we will see new technologies and inventions, &lt;/p&gt;
+&lt;h3&gt;Content&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Adas Sensors (Camera,Lidar,Radar)&lt;/li&gt;
+&lt;li&gt;Technical Background (DSP,Image Processing)&lt;/li&gt;
+&lt;li&gt;Euro-NCAP&lt;/li&gt;
+&lt;li&gt;Adas Systems (AES,ACC,Surround View)&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Adas Test Equipments&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/57e28adcd55e2ab95d2f3bdb7fc8aaa5/0f98f/adasengineer.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 47.2972972972973%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAG/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAFzhtMtVc//xAAaEAACAgMAAAAAAAAAAAAAAAABBAA0AhIx/9oACAEBAAEFAlRstiI3ZTrjjdn/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAXEAEBAQEAAAAAAAAAAAAAAAACABAB/9oACAEBAAY/AhzHDHf/xAAcEAACAgIDAAAAAAAAAAAAAAAAATGhEcEhQbH/2gAIAQEAAT8hmRcN2xSWV2WNFR+sjLej/9oADAMBAAIAAwAAABCTP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABoQAQACAwEAAAAAAAAAAAAAAAEAMRChsVH/2gAIAQEAAT8QBJsBJGinqIva8Y1ak0PE/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Project Sample&quot;
+        title=&quot;&quot;
+        src=&quot;/static/57e28adcd55e2ab95d2f3bdb7fc8aaa5/1c72d/adasengineer.jpg&quot;
+        srcset=&quot;/static/57e28adcd55e2ab95d2f3bdb7fc8aaa5/a80bd/adasengineer.jpg 148w,
+/static/57e28adcd55e2ab95d2f3bdb7fc8aaa5/1c91a/adasengineer.jpg 295w,
+/static/57e28adcd55e2ab95d2f3bdb7fc8aaa5/1c72d/adasengineer.jpg 590w,
+/static/57e28adcd55e2ab95d2f3bdb7fc8aaa5/a8a14/adasengineer.jpg 885w,
+/static/57e28adcd55e2ab95d2f3bdb7fc8aaa5/fbd2c/adasengineer.jpg 1180w,
+/static/57e28adcd55e2ab95d2f3bdb7fc8aaa5/0f98f/adasengineer.jpg 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+     &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Canvas- Animation]]></title><description><![CDATA[Canvas Canvas-2D Canvas Draw Functions Mouse Events Functions Game Logic Screen Refresh - Timers]]></description><link>https://gatsby-starter-blog-demo.netlify.com/html5-Canvas/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/html5-Canvas/</guid><pubDate>Fri, 19 Apr 2019 21:28:03 GMT</pubDate><content:encoded>&lt;h2&gt;Canvas&lt;/h2&gt;
+&lt;h3&gt;Canvas-2D&lt;/h3&gt;
+&lt;h3&gt;Canvas Draw Functions&lt;/h3&gt;
+&lt;h3&gt;Mouse Events Functions&lt;/h3&gt;
+&lt;h3&gt;Game Logic&lt;/h3&gt;
+&lt;h3&gt;Screen Refresh - Timers&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.w3schools.com/html/html5_canvas.asp&quot; &gt;W3Schools.com - CANVAS&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Task Reminder]]></title><description><![CDATA[Task Follow  - React Practice    Local Json File - Json Server for get,post,delete local]]></description><link>https://gatsby-starter-blog-demo.netlify.com/Task-Reminder/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/Task-Reminder/</guid><pubDate>Fri, 19 Apr 2019 21:28:03 GMT</pubDate><content:encoded>&lt;h2&gt;Task Follow  - React Practice&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e8064671e167f1b45c57db6a6056b64c/25044/taskfollow.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 552px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 147.97297297297297%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAECAwQF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB9nVIByU7oKNB/8QAHBABAAEEAwAAAAAAAAAAAAAAAgMAARASFCAi/9oACAEBAAEFAvW/VwhvjRUDYHP/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAcEAABBQADAAAAAAAAAAAAAAABAAIRIDEicpL/2gAIAQEABj8C3jaXAz2WH0VDcp//xAAgEAABAwMFAQAAAAAAAAAAAAABABARITFBUWFxocHw/9oACAEBAAE/IYM6BCkXQEZnlsuXyDQh0vvvUI2m8sG//9oADAMBAAIAAwAAABDEBTD/xAAWEQEBAQAAAAAAAAAAAAAAAAABESD/2gAIAQMBAT8QW4//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/EB//xAAgEAACAQQBBQAAAAAAAAAAAAABESEAEDFRgUFhcaHw/9oACAEBAAE/EJT1EZeCMc0oifelkd16r7FjTQAzDAIQKtKDcRgBM5nJmkGyA90CbL4t/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Project Sample&quot;
+        title=&quot;&quot;
+        src=&quot;/static/e8064671e167f1b45c57db6a6056b64c/25044/taskfollow.jpg&quot;
+        srcset=&quot;/static/e8064671e167f1b45c57db6a6056b64c/a80bd/taskfollow.jpg 148w,
+/static/e8064671e167f1b45c57db6a6056b64c/1c91a/taskfollow.jpg 295w,
+/static/e8064671e167f1b45c57db6a6056b64c/25044/taskfollow.jpg 552w&quot;
+        sizes=&quot;(max-width: 552px) 100vw, 552px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+      &lt;/p&gt;
+&lt;p&gt;Local Json File - Json Server for get,post,delete local &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Object Detection with Open-CV and Tensor-Flow]]></title><description><![CDATA[Hi Everyone,  Object Detection  Sliding Window]]></description><link>https://gatsby-starter-blog-demo.netlify.com/Object Detection - CNN/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/Object Detection - CNN/</guid><pubDate>Fri, 19 Apr 2019 21:28:03 GMT</pubDate><content:encoded>&lt;p&gt;Hi Everyone, &lt;/p&gt;
 &lt;h2&gt;Object Detection&lt;/h2&gt;
 &lt;p&gt;
   &lt;a
@@ -65,4 +124,25 @@
   &lt;/a&gt;
     &lt;/p&gt;
 &lt;h2&gt;Sliding Window&lt;/h2&gt;
-&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 36.674816625916876%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/Em37ucxvx74&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;</content:encoded></item></channel></rss>
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 36.674816625916876%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/Em37ucxvx74&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Vehicle Competitor - Database Practice]]></title><description><![CDATA[Vehicle Model Comparison Kia Test App My aim is just to show the fundamental process by combining frontend, backend, and database…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/vehicle-competitors/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/vehicle-competitors/</guid><pubDate>Fri, 19 Apr 2019 21:28:03 GMT</pubDate><content:encoded>&lt;h2&gt;Vehicle Model Comparison&lt;/h2&gt;
+&lt;p&gt;Kia Test App&lt;/p&gt;
+&lt;p&gt;My aim is just to show the fundamental process by combining frontend, backend, and database communication.&lt;/p&gt;
+&lt;p&gt;Youtube Link: Working Project on Local Host &lt;a href=&quot;https://www.youtube.com/watch?v=5Pezcnm82YM&amp;#x26;feature=youtu.be&quot;&gt;https://www.youtube.com/watch?v=5Pezcnm82YM&amp;#x26;feature=youtu.be&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 66.66666666666666%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/5Pezcnm82YM&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;h4&gt;Bootstrap: Styling&lt;/h4&gt;
+&lt;h4&gt;Express: Backend&lt;/h4&gt;
+&lt;h4&gt;Node.js:EJS Web Template&lt;/h4&gt;
+&lt;p&gt;Images from car companies websites&lt;/p&gt;
+&lt;h3&gt;Sql Queries&lt;/h3&gt;
+&lt;p&gt;router.get(‘/getcompetitors/:id’, (req, res) =&gt; { var sql = ‘SELECT * from competitors WHERE competitors.vehicle_model=’+”’“+req.params.id+”’”; db2.query(sql, (err, result) =&gt; { if(err) throw err; console.log(result); res.send(result); }); });&lt;/p&gt;
+&lt;p&gt;router.get(‘/createjoin’, (req, res) =&gt; { var sql = “SELECT vehicles.vehicle&lt;em&gt;type, vehicles.vehicle&lt;/em&gt;model,vehicles.sold&lt;em&gt;kia&lt;/em&gt;model,countries.country&lt;em&gt;name FROM countries JOIN vehicles ON countries.country&lt;/em&gt;name = vehicles.country&lt;em&gt;name ORDER BY vehicles.country&lt;/em&gt;name”; db2.query(sql, (err, result) =&gt; { if(err) throw err; console.log(result); res.send(result); }); });&lt;/p&gt;
+&lt;p&gt;!!!!! I have combined the other first 3 brands and their models in the competitor table, normally creating a separate brand with the vehicle model table is a more accurate arrangement.
+💪&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Construction Info Sharing]]></title><description><![CDATA[Cospotter.com - ?? Start-UP ?? Angular  ASP.net  Canvas]]></description><link>https://gatsby-starter-blog-demo.netlify.com/Web-App-Construction/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/Web-App-Construction/</guid><pubDate>Fri, 19 Apr 2019 21:28:03 GMT</pubDate><content:encoded>&lt;h3&gt;Cospotter.com - ?? Start-UP ??&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Angular &lt;/li&gt;
+&lt;li&gt;ASP.net &lt;/li&gt;
+&lt;li&gt;Canvas &lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 35.94202898550725%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/1kdWYnPjRTo&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Line Detection with Open-CV]]></title><description><![CDATA[Line Detection with Open-CV Math- Theory]]></description><link>https://gatsby-starter-blog-demo.netlify.com/Line Detection/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/Line Detection/</guid><pubDate>Fri, 19 Apr 2019 21:28:03 GMT</pubDate><content:encoded>&lt;h2&gt;Line Detection with Open-CV&lt;/h2&gt;
+&lt;h2&gt;Math- Theory&lt;/h2&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 36.674816625916876%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/bhj1hEiCWv0&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; 💪 &lt;/div&gt;</content:encoded></item></channel></rss>
